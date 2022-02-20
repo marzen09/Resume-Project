@@ -1,0 +1,35 @@
+.dp {
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.dp img{
+    border-radius: 150px;
+}
+.me {
+    text-align: center;
+    font-family: helvetica;
+    color: white;
+}
+.about-me{
+    font-family: helvetica;
+    margin-left: 50px;
+}
+.info {
+    font-family: helvetica;
+    margin-left: 150px;
+}
+.yes {
+    display: flex;
+    
+}
+.name{
+    font-size: 1.3em;
+}
+.bg{
+    background-image: url("/assets/oli.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

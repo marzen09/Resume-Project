@@ -1,0 +1,25 @@
+.portfolio-bg img{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.portfolio-bg{
+    font-family: helvetica;
+    background-image: url("/assets/white1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: cover;
+}
+.card{
+    width: 500px;
+    height: 375px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5%;
+    box-shadow: 2px 2px 5px;
+}
+.card-title, .card-text{
+    font-family: helvetica;
+    text-align: center;
+    color: black;
+}

@@ -1,0 +1,15 @@
+.homies{
+    background-color: #FEF0DB;
+    font-family: helvetica;
+    color: black;
+}
+.about-zen {
+    margin-left: auto;
+    margin-right: auto;
+}
+.full{
+    background-image: url("/assets/white1.jpg");
+    background-repeat: no-repeat;
+    background-size: 220%;
+    background-position: center;}
+
